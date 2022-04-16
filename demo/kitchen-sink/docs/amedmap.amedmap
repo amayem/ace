@@ -1,0 +1,11 @@
+Chief Complaint: Abdominal Pain
+Subjective
+  History of Presenting Illness
+    Abdo Pain
+      Location: [RUQ | RLQ | LLQ | LUQ | Epigastric | Suprapubic | left flank | right flank]
+      nausea: {yes | no}
+      onset: Date
+
+Objective
+  Physical Exam
+      
