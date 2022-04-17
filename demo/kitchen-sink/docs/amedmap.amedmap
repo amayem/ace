@@ -1,11 +1,39 @@
-Chief Complaint: Abdominal Pain
+Chief Complaint:
 Subjective
   History of Presenting Illness
-    Abdo Pain
-      Location: [RUQ | RLQ | LLQ | LUQ | Epigastric | Suprapubic | left flank | right flank]
-      nausea: {yes | no}
-      onset: Date
+    multiselect: [option1 | option2]
+    singleselect: {option1 | option2}
+
+  Relevant Medical History
+
+  Medications
+
+  Social History
+
+  Relevant Family History
 
 Objective
   Physical Exam
-      
+
+  Labwork
+
+  Imaging
+
+Assessment
+
+Plan
+  Investigations
+    Labs:
+
+    Imaging:
+
+  Management
+    Conservative:
+
+    Medical:
+
+    Surgical:
+
+    Referral:
+
+  Follow up
